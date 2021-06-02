@@ -13,6 +13,6 @@ Features of this website should include:
 
 Feel free to embellish beyond that.
 
-_You may use any Javascript libraries you like._
+While you are not obligated to use them, this repo comes with an API file and a Brewhaus image. **You are free to use anything else you would like!**
 
 Good luck!
